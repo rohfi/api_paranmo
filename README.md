@@ -8,8 +8,8 @@
 ![halaman_depan](https://user-images.githubusercontent.com/79566120/170852103-5d85e328-1989-41a7-9f9d-5d28536864b7.JPG)
 
 ## Documentation API
-![halaman_depan](https://user-images.githubusercontent.com/79566120/170477152-d75491de-d827-4b70-9895-291ce31c656d.JPG)
-![halaman_depan](https://user-images.githubusercontent.com/79566120/170477243-7030c1aa-4250-4d4e-9fbe-a4965ce8314e.JPG)
-![halaman_depan](https://user-images.githubusercontent.com/79566120/170477340-49841471-af82-486d-a7a9-9fe7a45b646f.JPG)
-![halaman_depan](https://user-images.githubusercontent.com/79566120/170477395-d295eb7e-8a9f-4890-ae0a-3db5470f1fc4.JPG)
+![halaman_depan](https://user-images.githubusercontent.com/79566120/170852210-796c13df-5d1c-42ba-9622-524091c11a5a.JPG)
+![halaman_depan](https://user-images.githubusercontent.com/79566120/170852231-6ea0631a-c11a-4d34-8d89-b019745813d7.JPG)
+![halaman_depan](https://user-images.githubusercontent.com/79566120/170852241-3320c27d-2b25-4618-bfbc-815fc640e594.JPG)
+![halaman_depan](https://user-images.githubusercontent.com/79566120/170852253-f63f8d83-aac3-4b79-a369-6390a005aca7.JPG)
 
