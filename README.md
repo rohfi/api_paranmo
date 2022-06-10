@@ -20,6 +20,6 @@ In developing this application, there are several processes that we have done:
 - [API](http://35.192.159.34/API/)
 - [Documentation API](http://35.192.159.34/Documentation-API)
 
-![compute-engine](https://user-images.githubusercontent.com/79566120/173049077-a631ce91-3117-485b-80d3-045d4d878864.png)
-![cloud-sql](https://user-images.githubusercontent.com/79566120/173049093-541f90a9-619f-40ee-96b2-d25713adc5c3.png)
+![cloud-sql](https://user-images.githubusercontent.com/79566120/173050070-318f8acd-e661-4163-9936-56308cfd4710.JPG)
+![compute-engine](https://user-images.githubusercontent.com/79566120/173049093-541f90a9-619f-40ee-96b2-d25713adc5c3.png)
 
