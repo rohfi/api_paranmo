@@ -1,15 +1,25 @@
-# api_paranmo
+# C22-PS020 - Capstone Project (Paranmo)
+Welcome to Cloud Computing repository of Paranmo Application (From Bangkit Capstone Project Team C22-PS020)!
 
-## Documentation API
-![halaman_depan](https://user-images.githubusercontent.com/79566120/171972910-ed89706b-a0fa-4ea8-8ca7-2ffe5da9c29a.JPG))
-![halaman_depan](https://user-images.githubusercontent.com/79566120/171972988-648766a7-48fb-40b6-aa08-5b382f9fc511.JPG)
-![halaman_depan](https://user-images.githubusercontent.com/79566120/171973059-f3b778a5-fe5c-42e3-9b9c-063f0b742dc0.JPG)
-![halaman_depan](https://user-images.githubusercontent.com/79566120/171973129-05e5bf16-27f3-4659-bd08-9a10fd053f99.JPG)
-![halaman_depan](https://user-images.githubusercontent.com/79566120/171973255-58671b0a-befb-42dc-a0d6-901a28c2530e.JPG)
-![halaman_depan](https://user-images.githubusercontent.com/79566120/172033337-67331690-e42d-4c15-be10-fcc5fb762ad5.JPG)
-![halaman_depan](https://user-images.githubusercontent.com/79566120/172113638-bd2893e6-e8e9-4a11-be47-d6492c6d3362.JPG)
-![halaman_depan](https://user-images.githubusercontent.com/79566120/172113632-019f11e4-02fe-486b-8da3-88c94baa28cf.JPG)
-![halaman_depan](https://user-images.githubusercontent.com/79566120/172113644-90b852e8-556c-4f5c-8e91-2bb8932b50ff.JPG)
-![halaman_depan](https://user-images.githubusercontent.com/79566120/172113640-e561e13b-e04c-40cb-baf5-44336169809a.JPG)
-![halaman_depan](https://user-images.githubusercontent.com/79566120/172113639-6965816b-ef79-4c28-9436-d5653ae2142b.JPG)
+See the link of C22-PS020: Team Repository
+
+This repository is managed by the Cloud Computing members:
+
+- C2014J1387 Angel Citra Ornella
+- C7335F2877 Muhammad Rohfi
+
+## The Process
+In developing this application, there are several processes that we have done:
+
+- Create Cloud SQL
+- Create database on SQL server
+- Create virtual machine to deploy API
+- Make the VPC Network IP Address static so that the IP address in the virtual machine does not change
+
+### Link: 
+- [API](http://35.192.159.34/API/)
+- [Documentation API](http://35.192.159.34/Documentation-API)
+
+[](https://user-images.githubusercontent.com/79566120/173049077-a631ce91-3117-485b-80d3-045d4d878864.png)
+[](https://user-images.githubusercontent.com/79566120/173049093-541f90a9-619f-40ee-96b2-d25713adc5c3.png)
 
