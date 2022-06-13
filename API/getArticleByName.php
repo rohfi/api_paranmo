@@ -6,7 +6,7 @@
   header("Content-Type: application/json; charset=UTF-8");
   header("Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With");
 
-  $db_host = '35.192.159.34';
+  $db_host = '34.69.122.100';
   $db_name = 'paranmo';
   $db_username = 'root';
   $db_password = 'paranmo1234';
