@@ -31,7 +31,7 @@
         'latin_name' =>$data['name_latin'],
         'benefit' =>$data['benefit'],
         'description' => $data['description'],
-        'photo_url' => 'upload/' . $data['url_photo'],
+        'photo_url' => $data['url_photo'],
         "createdAt" => $data['date']
       );
     }
