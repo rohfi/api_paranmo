@@ -1,7 +1,7 @@
 <?php
 class Database{
     // public ip cloud sql
-    private $db_host = '34.101.119.70';
+    private $db_host = '34.69.122.100';
     private $db_name = 'paranmo';
     private $db_username = 'root';
     private $db_password = 'paranmo1234';
