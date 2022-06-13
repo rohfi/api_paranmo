@@ -38,7 +38,7 @@
     $respons = array(
       'success' => 1,
       'status' => 201,
-      'message' => 'Get stories by name successfully', 
+      'message' => 'Get article by name successfully', 
       'article' => $item
     );
     echo json_encode($respons);
