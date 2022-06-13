@@ -6,7 +6,7 @@
   header("Content-Type: application/json; charset=UTF-8");
   header("Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With");
 
-  $db_host = '34.101.119.70';
+  $db_host = '34.69.122.100';
   $db_name = 'paranmo';
   $db_username = 'root';
   $db_password = 'paranmo1234';
@@ -20,11 +20,12 @@
     while($data = mysqli_fetch_array($query)){
       $item[] = array(
         'id' =>$data['id'],
+        'name' =>$data['name'],
         'plant_name' =>$data['name_plant'],
         'latin_name' =>$data['name_latin'],
         'benefit' =>$data['benefit'],
         'description' => $data['description'],
-        'photo_url' => 'upload/' . $data['url_photo'],
+        'photo_url' => $data['url_photo'],
         "createdAt" => $data['date']
       );
     }
