@@ -6,7 +6,7 @@
   header("Content-Type: application/json; charset=UTF-8");
   header("Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With");
 
-  $db_host = '34.101.119.70';
+  $db_host = '34.69.122.100';
   $db_name = 'paranmo';
   $db_username = 'root';
   $db_password = 'paranmo1234';
@@ -43,7 +43,7 @@
     $respons = array(
       'success' => 1,
       'status' => 201,
-      'message' => 'Get articles successfully', 
+      'message' => 'Get product successfully', 
       'article' => $item
     );
     echo json_encode($respons);
