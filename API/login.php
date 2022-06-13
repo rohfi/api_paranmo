@@ -61,7 +61,7 @@
                       $jwt = new JwtHandler();
                       // ip vm instance
                       $token = $jwt->jwtEncodeData(
-                          'http://34.101.86.196/API/',
+                          'http://35.192.159.34/API/',
                           array("user_id"=> $row['id'])
                       );
                       
